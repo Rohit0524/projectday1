@@ -1,0 +1,25 @@
+BUS BOOKING 
+
+1) registration & login page
+2) bus list random, book now(1)
+
+3) contents
+	dashboard,allbus,stations,destination
+
+
+4) after login personal details
+
+5) search bus :- time(departure),day ,bus class, total seat,amount(fare)
+	Bus timing  for source to destination(Duration)
+	approx time to reach destination.(arrival)
+
+6) bus information:- name,bus code,total seat,available seat
+
+7) bus stand list:- name,address,contact
+
+8) purchase ticket details
+	ticket status:- paid or not, history record
+
+9) Ticket cancellation
+10) deduction and refund
+11) customer help
